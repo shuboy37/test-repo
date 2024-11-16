@@ -20,7 +20,8 @@ function Home() {
           <div className="flex flex-wrap">
             <div className="p-2 w-full">
               <h1 className="text-2xl font-bold text-white">
-                Login to read posts & Signup if you are a new user
+                {" "}
+                🌟 Explore. Engage. Elevate. Your journey starts here..
               </h1>
             </div>
           </div>
